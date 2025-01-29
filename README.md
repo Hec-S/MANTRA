@@ -11,7 +11,7 @@
 
 ## Overview
 
-MANTRA is a regulated Layer-1 blockchain built on the Cosmos network, combining the speed and transparency of DeFi with the safety and compliance of traditional finance. It focuses on Real World Assets (RWAs) and provides a permissionless platform for building permissioned, compliant applications, targeting institutions and developers prioritizing regulatory adherence.
+MANTRA is a real-world asset (RWA)-focused Layer 1 blockchain designed to bridge traditional and decentralized finance. Built with Tendermint consensus and CometBFT for IBC interoperability, it provides a secure and compliant infrastructure for institutions, businesses, and developers. Its unique Module layer enables the creation, trading, and management of RWAs at the protocol level, ensuring regulatory compliance while unlocking new opportunities for on-chain asset financing.
 
 ## Investment Thesis
 
@@ -53,3 +53,7 @@ MANTRA Chain, launched in October 2024, has rapidly emerged as a leading Layer 1
 Its biggest competitive advantage lies in its aggressive partnerships. In just months, MANTRA secured a $1 billion deal with Dubai’s DAMAC Group, a move no other RWA-focused project has matched. Additionally, its partnership with Google Cloud strengthens its infrastructure, ensuring scalability, security, and lower transaction costs. Google Cloud’s role as a network verifier and supporter of the MANTRA Incubator (Q1 2025) will drive developer adoption and accelerate ecosystem growth. Further demonstrating its strong momentum, MANTRA has also partnered with MAG Group ($500 million contract), a major real estate developer, and Libre Capital ($250 million contract), a financial firm focused on digital asset innovation. These additional partnerships reinforce MANTRA’s ability to attract institutional capital and drive mainstream adoption of RWA tokenization.
 
 Unlike Ondo Finance, Tokeny Solutions, or RedSwan CRE, which focus on fragmented tokenization solutions, MANTRA integrates institutional-grade real estate directly into its blockchain. Its focus on regulatory compliance and enterprise adoption differentiates it from speculative retail-driven L1s. Despite being only a few months old, OM has surged 6,000% in 2024, outperforming RWA competitors like ONDO, HBAR, and CHEX. However, sustaining this momentum will require further institutional partnerships, developer engagement, and increased RWA liquidity.
+
+### MANTRA Incubator
+
+The MANTRA Incubator Program is a 12-14 week accelerator designed to attract developers and startups looking to build on MANTRA Chain. By providing seed funding, regulatory support, mentorship, and networking opportunities, the program ensures that high-quality projects are developed within the ecosystem, driving blockchain adoption and scalability. The incubator focuses on fostering Real-World Asset (RWA) tokenization projects, directly enhancing the chain’s utility and developer engagement. As projects complete the program, they bring more users, dApps, and liquidity to MANTRA, strengthening its position. 

@@ -6,7 +6,6 @@
 * Market Capitalisation: 4.3bn
 * FDV $8.13B
 * Launch: August 2020
-* Whitepaper: [MANTRA](https://docs.mantrachain.io/)
 
 
 ## Overview

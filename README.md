@@ -57,12 +57,12 @@ Unlike Ondo Finance, Tokeny Solutions, or RedSwan CRE, which focus on fragmented
 
 The MANTRA Incubator Program is a 12-14 week accelerator designed to attract developers and startups looking to build on MANTRA Chain. By providing seed funding, regulatory support, mentorship, and networking opportunities, the program ensures that high-quality projects are developed within the ecosystem, driving blockchain adoption and scalability. The incubator focuses on fostering Real-World Asset (RWA) tokenization projects, directly enhancing the chain’s utility and developer engagement. As projects complete the program, they bring more users, dApps, and liquidity to MANTRA, strengthening its position. 
 
-## Valuation Analysis 
+## Final Insights & Price Target
 
 MANTRA (OM) is undervalued given its early-stage development and rapid adoption in real-world asset (RWA) tokenization. Traditional valuation models like TVL/GDP were not applicable due to the lack of established dApp revenue, so we used a Total Addressable Market (TAM) approach to estimate its potential.
 
 Industry projections suggest the RWA tokenization market could reach trillions by 2030, with real estate as a major segment. MANTRA has already secured $1.75B+ in institutional partnerships (DAMAC, MAG, Libre Capital), positioning itself as a first mover in tokenized real estate. Applying a conservative 50% execution risk discount and assessing market share potential, we project a target price of $12, reflecting future adoption rather than short-term valuation ratios.
 
-## Buy Recommendation
+### Buy Recommendation
 
 At ~$4.50, OM is trading below its future potential, with its real value tied to long-term adoption and ecosystem growth. Given its institutional backing, strategic partnerships, and first-mover advantage in RWAs, we recommend a buy for investors looking to capitalize on the expanding tokenized asset market.

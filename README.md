@@ -1,10 +1,10 @@
 # MANTRA (OM)
-* Current Price $4.50
-* Token Type: Mantra is a multi-utility governance token for decentralized finance
-* Circ. Token Supply: 8.68% (53.5%)
+* Current Price 5.60
+* Token Type: Mantra (OM) is a multi-utility governance token for decentralized finance
+* Circ. Token Supply: 963.27M (53.5%)
 * Max Token Supply: 1.8bn
-* Market Capitalisation: 4.3bn
-* FDV $8.13B
+* Market Capitalisation: $5.42Bn
+* FDV $10.2Bn
 * Launch: August 2020
 
 
@@ -30,7 +30,7 @@ Additionally, MANTRA’s decentralized identity (DID) system provides a permissi
 
 Since MANTRA Chain aims to bring RWAs on-chain, Cosmos SDK provided the optimal infrastructure due to its ability to cater to high-end scalability requirements, ensuring fast transaction finality and low fees, essential for large-scale institutional asset transfers. Additionally, Cosmos SDK enables seamless interoperability with other applications through IBC, allowing RWAs to move efficiently across different blockchain ecosystems without requiring centralized bridges.
 
-Beyond interoperability, MANTRA benefits from Tendermint Core and CometBFT, which eliminate instances of forking, ensuring network stability and preventing malicious actors from disrupting transactions—a critical security measure for compliance-driven institutions. Lastly, Cosmos SDK offers a ready-to-use developer kit for robust and efficient blockchain development, reducing time-to-market for enterprise-grade RWA solutions.
+Beyond interoperability, MANTRA benefits from Tendermint Core and CometBFT, which eliminate instances of forking (which could create legal and financial disputes). This ensures network stability and preventing malicious actors from disrupting transactions—a critical security measure for compliance-driven institutions. Lastly, Cosmos SDK offers a ready-to-use developer kit for robust and efficient blockchain development, reducing time-to-market for enterprise-grade RWA solutions.
 
 ## Metrics and Tokenomics Overview
 

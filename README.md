@@ -63,6 +63,4 @@ MANTRA (OM) is undervalued given its early-stage development and rapid adoption 
 
 Industry projections suggest the RWA tokenization market could reach trillions by 2030, with real estate as a major segment. MANTRA has already secured $1.75B+ in institutional partnerships (DAMAC, MAG, Libre Capital), positioning itself as a first mover in tokenized real estate. Applying a conservative 50% execution risk discount and assessing market share potential, we project a target price of $12, reflecting future adoption rather than short-term valuation ratios.
 
-### Buy Recommendation
-
 At ~$4.50, OM is trading below its future potential, with its real value tied to long-term adoption and ecosystem growth. Given its institutional backing, strategic partnerships, and first-mover advantage in RWAs, we recommend a buy for investors looking to capitalize on the expanding tokenized asset market.

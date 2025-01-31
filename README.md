@@ -70,6 +70,11 @@ A key advantage for MANTRA is its proprietary Layer 1 blockchain, MANTRA Chain, 
 
 The MANTRA Incubator Program is a 12-14 week accelerator designed to attract developers and startups looking to build on MANTRA Chain. By providing seed funding, regulatory support, mentorship, and networking opportunities, the program ensures that high-quality projects are developed within the ecosystem, driving blockchain adoption and scalability. The incubator focuses on fostering Real-World Asset (RWA) tokenization projects, directly enhancing the chain’s utility and developer engagement. As projects complete the program, they bring more users, dApps, and liquidity to MANTRA, strengthening its position. 
 
+## Risks Analysis and Mitigation 
+
+<img width="895" alt="Screenshot 2025-01-30 at 6 16 29 PM" src="https://github.com/user-attachments/assets/b02193d5-dcfd-4feb-97a0-a3c8f80593b6" />
+
+
 ## Final Insights & Price Target
 
 MANTRA (OM) is undervalued given its early-stage development and rapid adoption in real-world asset (RWA) tokenization. Traditional valuation models like TVL/GDP were not applicable due to the lack of established dApp revenue, so we used a Total Addressable Market (TAM) approach to estimate its potential.
